@@ -1,0 +1,16 @@
+This code will run effectively on your computer or laptops if you have a good hardware.
+If you dont have good hardware please use google colab.
+
+
+************Set Up Google Colab****************************
+Go to Google Colab.
+Click on "New Notebook" to create a new Colab notebook.
+In the notebook, you can write and run Python code. Colab provides a cloud-based Python environment with access to various libraries and resources.
+
+
+*********** Upload the dataset************************
+Now Upload the dataset file NIFTY50_all.csv
+
+Now copy and paste your code there and run it and be patience it will surely run,if your PC still hangs then do not do anything but be patience.
+
+
