@@ -9,7 +9,7 @@ In the notebook, you can write and run Python code. Colab provides a cloud-based
 
 
 *********** Upload the dataset************************
-Now Upload the dataset file NIFTY50_all.csv
+Now Upload the dataset file NIFTY50_all.csv after extracting it from NIFTY50_all.rar
 
 Now copy and paste your code there and run it and be patience it will surely run,if your PC still hangs then do not do anything but be patience.
 
